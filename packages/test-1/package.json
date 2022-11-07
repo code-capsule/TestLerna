@@ -1,6 +1,6 @@
 {
   "name": "@codecapsule/test1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "license": "MIT",
   "gitHead": "bca86531c87a7e6ba032aa57d6614c8707c91d00"
